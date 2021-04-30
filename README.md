@@ -1,4 +1,5 @@
-# ltpython
+# Grammatical Mad libs:
+# Story Generator Using Regular Expressions(Re)
 Introduction
 Grammatical Mad libs:
 Its a Fun application which allows user to put in NOUN, ADJECTIVE,VERB. With all the provided data it giives user a story made from the predefined dataset. 
